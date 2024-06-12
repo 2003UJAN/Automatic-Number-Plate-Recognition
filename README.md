@@ -1,1 +1,1 @@
-# Automa
+# Automat
