@@ -1,1 +1,1 @@
-# Automati
+# Automatic
