@@ -1,1 +1,1 @@
-# Automatic-Numbe
+# Automatic-Number
